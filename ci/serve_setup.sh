@@ -1,2 +1,2 @@
 #!/bin/sh
-./install_deps.sh
+./ci/install_deps.sh
