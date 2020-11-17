@@ -8,6 +8,7 @@
   "features": [],
   "requireArtifactBuild": true,
   "ci_config": {
+    "base_image_path": "node:12.19.0-buster",
     "build_setup_cmd": "./ci/build_setup.sh",
     "build_cmd": "./ci/build.sh",
     "serve_setup_cmd": "./ci/serve_setup.sh",
