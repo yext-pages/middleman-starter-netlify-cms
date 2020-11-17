@@ -1,2 +1,3 @@
 #!/bin/sh
-./ci/install_deps.sh
+
+echo "no-op"
